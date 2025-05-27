@@ -1,7 +1,7 @@
 {
-  "name": "marketingos",
+  "name": "allecta",
   "version": "1.0.0",
-  "description": "Revolutionary marketing platform with AI agents",
+  "description": "Allecta - Captivating Marketing at the Speed of Thought",
   "private": true,
   "scripts": {
     "dev": "next dev",

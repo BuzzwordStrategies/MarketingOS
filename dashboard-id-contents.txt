@@ -1,0 +1,2 @@
+C:\Users\josh\marketingos\app\(dashboard)\[id]\layout.tsx
+C:\Users\josh\marketingos\app\(dashboard)\[id]\page.tsx

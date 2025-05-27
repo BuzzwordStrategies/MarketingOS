@@ -1,0 +1,3 @@
+C:\Users\josh\marketingos\app\(dashboard)\[id]
+C:\Users\josh\marketingos\app\(dashboard)\workflows\[id]
+C:\Users\josh\marketingos\app\(platform)\workflows\[id]

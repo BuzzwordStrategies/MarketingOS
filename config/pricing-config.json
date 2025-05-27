@@ -1,0 +1,20 @@
+{
+  "services": {
+    "social_media": {
+      "displayName": "Social Media Management",
+      "pricing": { "base": 300, "standard": 500, "premium": 1000 },
+      "enabled": true
+    },
+    "seo": {
+      "displayName": "SEO Optimization",
+      "pricing": { "base": 500, "standard": 1400, "premium": 5000 },
+      "enabled": true
+    }
+  },
+  "tier_limits": {
+    "free": { "competitors": 1, "posts": 2, "analytics_days": 7 },
+    "base": { "competitors": 3, "posts": 30, "analytics_days": 30 },
+    "standard": { "competitors": 10, "posts": 100, "analytics_days": 90 },
+    "premium": { "competitors": -1, "posts": -1, "analytics_days": 365 }
+  }
+}
